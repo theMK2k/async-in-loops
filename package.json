@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "for": "node for.js",
-    "forEach": "node forEach.js"
+    "forEach": "node forEach.js",
+    "forAwait": "node forAwait.js",
+    "reduce": "node reduce.js"
   },
   "repository": {
     "type": "git",

@@ -22,3 +22,15 @@ This test utilizes a for loop and shows that execution is in sequence and awaits
 Run the test by typing `yarn forEach`.
 
 This test utilizes forEach and shows that execution is breaking sequence and doesn't await each call.
+
+## Test 3: reduce
+
+Run the test by typing `yarn reduce`.
+
+This test utilizes reduce and shows sequential execution of a list of chained promises.
+
+## Test 4: forAwait
+
+Run the test by typing `yarn forAwait`.
+
+This test utilizes forAwait and shows that sequential execution of a list of mixed (synchronous and/or asynchronous) iterators.
