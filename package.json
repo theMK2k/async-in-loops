@@ -1,0 +1,20 @@
+{
+  "name": "async-in-loops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "for": "node for.js",
+    "forEach": "node forEach.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theMK2k/async-in-loops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theMK2k/async-in-loops/issues"
+  },
+  "homepage": "https://github.com/theMK2k/async-in-loops#readme"
+}
